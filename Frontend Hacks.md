@@ -8,6 +8,25 @@ Frontend
 
 [https://www.useronboard.com/user-onboarding-teardowns/](https://www.useronboard.com/user-onboarding-teardowns/) – Make your Onboarding #1
 
+React
+
+- Use UI Kits and existing themes, not just only components from Material, Bootstrap, etc.
+- Try Rekit - React IDE that will boost app development at hack at least 2 times.
+- Use React staters/templates.
+
+Angular
+
+- ng add is your friend to use packages
+- Use starters and existing apps
+
+Node.js
+
+- Use yeomann generator/loopback framework to generate CRUD REST API fast as fuck.
+
+Workflow
+
+- Use Heroku/Now/GitGub Actions/Bitbucket Pipelines for CI and quick demo workflow
+
 Landing Pages:
 
 - [https://klart.io/pixels](https://klart.io/pixels)
