@@ -11,8 +11,12 @@ Frontend
 React
 
 - Use UI Kits and existing themes, not just only components from Material, Bootstrap, etc.
-- Try Rekit - React IDE that will boost app development at hack at least 2 times.
-- Use React staters/templates.
+- Try [Rekit](https://rekit.js.org/docs/get-started.html) - React IDE that will boost app development at hack at least 2 times.
+- Use React starters/templates.
+ 
+ [Here](https://github.com/kriasoft/react-starter-kit) is very cool starter-kit for Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync kit.
+ 
+[And here](https://blog.bitsrc.io/11-react-application-boilerplates-for-2019-b49a8226ea54) is whole collection of kits, makes fit for almost every project, even production.
 
 Angular
 
@@ -22,6 +26,22 @@ Angular
 Node.js
 
 - Use yeomann generator/loopback framework to generate CRUD REST API fast as fuck.
+
+[This (TypeScript)](https://github.com/cdimascio/generator-express-no-stress-typescript) and [this](https://github.com/diegohaz/rest) is good to use and create complete API.
+
+You should definitely check headless CMS if your idea is to create something really fast with everything in the box.
+[Strapi](https://strapi.io/) and [Sanity](https://www.sanity.io/) are good for this. 
+
+
+ML in frontend
+
+CAUTION! There are no way back!
+
+You can setup and run ML models in browser much faster, than Python/C++ ones, but training may take much longer.
+You can use trained Python/C++ models in browser with Tensorflow.
+
+You can use [Tensorflow.js](https://www.tensorflow.org/js), [Brain](https://brain.js.org/#/), [ML.js](https://github.com/mljs/ml) and existing models to use right in your browser.
+Not every ML lib will work on the server side, keep this in mind.
 
 Workflow
 
