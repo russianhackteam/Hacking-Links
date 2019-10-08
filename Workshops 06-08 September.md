@@ -9,6 +9,9 @@ Here is a quick overview of what was during these Workshops:
 
 [Presentation](https://github.com/russianhackteam/Hacking-Links/blob/master/State%20of%20the%20Hackathon_compressed--.pdf)
 
+Petor Fedin Social Medias:
+https://www.facebook.com/pfedin
+
 2) Idea Generation
 
 Usefull links: 
@@ -32,4 +35,7 @@ https://www.instagram.com/victor.only
 
 5) Hacking workflow
 
-Presentation: # TODO
+[Presentation](https://github.com/russianhackteam/Hacking-Links/blob/master/HACKING%20Development%20as%20a%20Process.pdf)
+
+Diakov Maksim Social Medias: 
+https://fb.com/diakov2100
